@@ -1,8 +1,10 @@
-# 💼 <b>What am I currently doing?</b>
+# 👋 Intro
 • Studying Business, Computer Science & Quantitative Finance at Dalhousie University  
 • Passionate about AI and excited to experiment with the latest AI tools and technologies
 
-# 🧠 <b>Experience</b>
+---
+
+# 💼 Experience
 • Working as a Summer Analyst at RBC Capital Markets, supporting $5B+ portfolios  
 • Analyst at The Maritime Fund, researching and building investment strategies  
 • Teaching Assistant for Software Projects, mentoring agile development teams
