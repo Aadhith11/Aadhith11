@@ -1,8 +1,7 @@
-# 👋 Intro
+x# 👋 Intro
 • Studying Business, Computer Science & Quantitative Finance at Dalhousie University  
 • Passionate about AI and excited to experiment with the latest AI tools and technologies
 
----
 
 # 💼 Experience
 • Working as a Summer Analyst at RBC Capital Markets, supporting $5B+ portfolios  
@@ -34,7 +33,6 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Aadhith11&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Aadhith11&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadhith11&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
