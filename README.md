@@ -1,4 +1,4 @@
-x# 👋 Intro
+# 👋 Intro
 • Studying Business, Computer Science & Quantitative Finance at Dalhousie University  
 • Passionate about AI and excited to experiment with the latest AI tools and technologies
 
