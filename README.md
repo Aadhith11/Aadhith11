@@ -1,15 +1,13 @@
-# 💫 About Me:
-
-<b>What am I currently doing?</b><br><br>
+# 👋 <b>Intro</b><br><br>
 • Studying Business, Computer Science & Quantitative Finance at Dalhousie University  <br>
 • Passionate about AI and excited to experiment with the latest AI tools and technologies<br><br>
 
-<b>Experience</b><br><br>
+# 💼 <b>Experience</b><br><br>
 • Working as a Summer Analyst at RBC Capital Markets, supporting $5B+ portfolios  <br>
 • Analyst at The Maritime Fund, researching and building investment strategies  <br>
 • Teaching Assistant for Software Projects, mentoring agile development teams  <br>
 
-<b>Some recognitions</b><br><br>
+# 🏅 <b>Some recognitions</b><br><br>
 • Top 10 – International Commodities Trading Competition 2025  <br>
 • 2nd Place – RBC Youth Health Innovation Challenge  <br>
 • 2nd Place – Regional Enactus Competition for Student Entrepreneurs  <br>
@@ -20,7 +18,7 @@
 • In-course Scholar (2023, 2024)  <br>
 • National-level Road and Track Cyclist (3× State Champion)<br><br>
 
-<b>What have I done in the past?</b><br><br>
+# 🛠️ <b>What have I done in the past?</b><br><br>
 • Supported $1T+ AUM clients at RBC by optimizing trade operations  <br>
 • Delivered 8+ investment reports at The Maritime Fund with actionable insights  <br>
 • Built internal tools that automated post-trade updates and saved operational time  <br>
