@@ -1,28 +1,28 @@
-# 👋 <b>Intro</b><br><br>
-• Studying Business, Computer Science & Quantitative Finance at Dalhousie University  <br>
-• Passionate about AI and excited to experiment with the latest AI tools and technologies<br><br>
+# 💼 <b>What am I currently doing?</b>
+• Studying Business, Computer Science & Quantitative Finance at Dalhousie University  
+• Passionate about AI and excited to experiment with the latest AI tools and technologies
 
-# 💼 <b>Experience</b><br><br>
-• Working as a Summer Analyst at RBC Capital Markets, supporting $5B+ portfolios  <br>
-• Analyst at The Maritime Fund, researching and building investment strategies  <br>
-• Teaching Assistant for Software Projects, mentoring agile development teams  <br>
+# 🧠 <b>Experience</b>
+• Working as a Summer Analyst at RBC Capital Markets, supporting $5B+ portfolios  
+• Analyst at The Maritime Fund, researching and building investment strategies  
+• Teaching Assistant for Software Projects, mentoring agile development teams
 
-# 🏅 <b>Some recognitions</b><br><br>
-• Top 10 – International Commodities Trading Competition 2025  <br>
-• 2nd Place – RBC Youth Health Innovation Challenge  <br>
-• 2nd Place – Regional Enactus Competition for Student Entrepreneurs  <br>
-• 2nd Place – Halifax Generative AI Hackathon  <br>
-• 2nd Place – Aging Hackathon  <br>
-• 1st Place – Brain-Computer Interaction Hackathon  <br>
-• Sagewood Entrepreneurship Award 2024  <br>
-• In-course Scholar (2023, 2024)  <br>
-• National-level Road and Track Cyclist (3× State Champion)<br><br>
+# 🏅 <b>Some recognitions</b>
+• Top 10 – International Commodities Trading Competition 2025  
+• 2nd Place – RBC Youth Health Innovation Challenge  
+• 2nd Place – Regional Enactus Competition for Student Entrepreneurs  
+• 2nd Place – Halifax Generative AI Hackathon  
+• 2nd Place – Aging Hackathon  
+• 1st Place – Brain-Computer Interaction Hackathon  
+• Sagewood Entrepreneurship Award 2024  
+• In-course Scholar (2023, 2024)  
+• National-level Road and Track Cyclist (3× State Champion)
 
-# 🛠️ <b>What have I done in the past?</b><br><br>
-• Supported $1T+ AUM clients at RBC by optimizing trade operations  <br>
-• Delivered 8+ investment reports at The Maritime Fund with actionable insights  <br>
-• Built internal tools that automated post-trade updates and saved operational time  <br>
-• Designed a commodity arbitrage model that reduced portfolio VaR by 25%  <br>
+# 🛠️ <b>What have I done in the past?</b>
+• Supported $1T+ AUM clients at RBC by optimizing trade operations  
+• Delivered 8+ investment reports at The Maritime Fund with actionable insights  
+• Built internal tools that automated post-trade updates and saved operational time  
+• Designed a commodity arbitrage model that reduced portfolio VaR by 25%  
 • Created dashboards supporting over $5M in daily trading decisions
 
 ## 🌐 Socials:
